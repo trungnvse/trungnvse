@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Nguyen%20Viet%20Trung&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Trung%20Nguyen&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer+%F0%9F%94%A7;IoT+%7C+RTOS+%7C+Bare-metal+Engineer;Desktop+%26+Web+App+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 ```c
 typedef struct {
-    char  name[]        = "Nguyen Viet Trung";
+    char  name[]        = "Trung Nguyen";
     char  role[]        = "Embedded Systems Developer";
     char  status[]      = "Intern & Fresher developer";
     char  focus[]       = "Firmware, RTOS, IoT, Bootloader & Edge AI";
