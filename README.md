@@ -103,12 +103,6 @@ typedef struct {
   <img src="https://img.shields.io/badge/Bash%2FLinux%20CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### 🤖 AI / Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
 ### 🖥️ Desktop & Web Development
 <p>
   <img src="https://img.shields.io/badge/WPF%2FWinForms-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
