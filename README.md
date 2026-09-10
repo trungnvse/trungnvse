@@ -67,19 +67,15 @@ typedef struct {
   <img src="https://img.shields.io/badge/UART%2FUSART-0099CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/I2C%2FI2S-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/CAN%20Bus-CC0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLE%2FWi--Fi-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
 </p>
 
 ### 🧰 IDEs & Development Tools
 <p>
-  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCUXpresso-FF8000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/S32DS-003366?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
 </p>
 
 ### 🔍 Debugging & Testing
@@ -89,7 +85,6 @@ typedef struct {
   <img src="https://img.shields.io/badge/ST--Link%2FJ--Link-0075C2?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenOCD-009900?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logic%20Analyzer-FF0080?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Valgrind-4B0082?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### 🏗️ Build & DevOps
@@ -98,13 +93,10 @@ typedef struct {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash%2FLinux%20CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### 🖥️ Desktop & Web Development
 <p>
-  <img src="https://img.shields.io/badge/WPF%2FWinForms-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt%20Widget%2FQuick-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -113,7 +105,6 @@ typedef struct {
 ### 📋 Project Management
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 </p>
 
